@@ -12,4 +12,4 @@ read_oneRecord.php – used for reading one or single record from database. It u
 
 updateRecord.php – used for updating a record. It uses an HTML form which will be filled out with data based on the given “id” parameter.
 
-deleteRecord.php – used for deleting a record. It accepts an “id” parameter and deletes the record with it. Once it execute the delete query, it will redirect the user to the index.php page.
+deleteRecord.php – used for deleting a record. It accepts an “id” parameter and deletes the record with it. Once it executes the delete query, user will be redirected to the index.php page.
